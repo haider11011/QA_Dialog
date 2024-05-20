@@ -55,5 +55,3 @@ For detailed references, please refer to the project report.
 - Paridhi Awadheshpratap Singh
 - Chahat Segan
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
